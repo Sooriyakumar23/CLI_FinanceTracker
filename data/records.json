@@ -1,0 +1,42 @@
+[
+  {
+    "amount": -100.0,
+    "type": "expense",
+    "category": "food"
+  },
+  {
+    "amount": -130.0,
+    "type": "expense",
+    "category": "food"
+  },
+  {
+    "amount": 180.0,
+    "type": "income",
+    "category": "salary"
+  },
+  {
+    "amount": -20.0,
+    "type": "expense",
+    "category": "travel"
+  },
+  {
+    "amount": -70.0,
+    "type": "expense",
+    "category": "food"
+  },
+  {
+    "amount": -70.0,
+    "type": "expense",
+    "category": "travel"
+  },
+  {
+    "amount": 400.0,
+    "type": "income",
+    "category": "business"
+  },
+  {
+    "amount": -200.0,
+    "type": "expense",
+    "category": "food"
+  }
+]
